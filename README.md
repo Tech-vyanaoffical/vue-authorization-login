@@ -16,7 +16,7 @@
 ``` bash
 # 安装依赖
 npm install
-
+# hacker
 # 启动vue项目 127.0.0.1:8080
 npm run dev
 
